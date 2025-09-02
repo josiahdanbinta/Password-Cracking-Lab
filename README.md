@@ -17,8 +17,8 @@ Demonstrating password hash cracking using **John the Ripper** and **Hashcat**.
 5. Measured cracking speed & success rates.
 
 ## Screenshots
-![John Output](images/john-output.png)
-![Hashcat Output](images/hashcat-output.png)
+![John Output]((https://imgur.com/a/OmeZU4W)
+![Hashcat Output]((https://imgur.com/a/f0v4gUH)
 
 ## Results
 - Cracked weak passwords in seconds.
